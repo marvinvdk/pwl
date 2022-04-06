@@ -1,0 +1,24 @@
+Biodata 
+
+UTS INT PUB 2
+
+18083000217 / Kevin Marino / 7F
+
+- Database pada folder sql_database
+- Ekstrak / langsung import di php my admin.
+
+------------
+Login Admin :
+
+USERNAME : admin@gmail.com
+PW : admin
+
+-----------
+Login User : 
+
+USERNAME : vin@gmail.com
+PW : vin
+
+atau bisa buat user baru, di register
+
+----------
